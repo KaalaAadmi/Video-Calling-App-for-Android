@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625330986092",
+    "firebase_url": "https://video-call-304b1.firebaseio.com",
+    "project_id": "video-call-304b1",
+    "storage_bucket": "video-call-304b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625330986092:android:c74ab43d2400d3fd094c49",
+        "android_client_info": {
+          "package_name": "com.example.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625330986092-p2plrckrt40n3gmkfib9cf96g4rhia0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGC-m3_H3H8Q90ADOUeQSyKYrDftGWVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625330986092-p2plrckrt40n3gmkfib9cf96g4rhia0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
